@@ -1,0 +1,17 @@
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.csprojAssemblyReference.cache
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\newPage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.csproj.CoreCompileInputs.cache
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.AssemblyInfoInputs.cache
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.AssemblyInfo.cs
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\bin\Debug\netstandard2.0\Travel.deps.json
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\bin\Debug\netstandard2.0\Travel.dll
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\bin\Debug\netstandard2.0\Travel.pdb
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.dll
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\Travel.pdb
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel\obj\Debug\netstandard2.0\XamlC.stamp

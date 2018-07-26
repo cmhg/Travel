@@ -1,0 +1,8 @@
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\Travel.iOS.csprojAssemblyReference.cache
+C:\Users\chernandezg\Documents\Visual Studio 2017\Projects\Travel\Travel\Travel.iOS\obj\iPhoneSimulator\Debug\Travel.iOS.csproj.CoreCompileInputs.cache
